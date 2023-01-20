@@ -1,4 +1,4 @@
-# Application exemple en Python avec Docker et 
+# Application exemple en Python avec Docker et Jenkins
 
 
 
